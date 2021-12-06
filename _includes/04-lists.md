@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+<html>
+  <body>
+    <ul>
+      <li>coding</li>
+      <li>dancing</li>
+      <li>traveling</li>
+      <li>sleeping</li>
+      <li>planting</li>
+    </ul>
+  </body>
+  </html>
