@@ -1,5 +1,4 @@
-<html>
-  <body>
+
     <ol>
       <li>coding</li>
       <li>dancing</li>
@@ -7,5 +6,4 @@
       <li>sleeping</li>
       <li>planting</li>
     </ol>
-  </body>
-  </html>
+
